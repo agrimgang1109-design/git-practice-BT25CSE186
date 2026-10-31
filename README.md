@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Name:** Agraj Shukla
-- **Roll Number:** BT25CSE176
+- **Name:** Agrim Singh
+- **Roll Number:** BT25CSE186
 - **Section:** CSE C
 
 ## Project Title
@@ -56,6 +56,6 @@ git-practice-BT25CSE176/
 
 ## Author
 
-Agraj Shukla 
-BT25CSE176 
+Agrim Singh
+BT25CSE186
 CSE C
